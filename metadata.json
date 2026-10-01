@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Nội trú - TH & THCS Mẫu Sơn",
+  "description": "Nguyên mẫu phần mềm hỗ trợ quản lý nội trú cho Trường Phổ thông nội trú TH & THCS Mẫu Sơn: quản lý phòng ở, phân công ca trực 24h, nhật ký, báo cáo nhanh và bàn giao ca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
